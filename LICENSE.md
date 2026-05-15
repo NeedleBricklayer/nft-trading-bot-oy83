@@ -1,4 +1,4 @@
-# 
+# advanced nft trading bot | floor-price-tracking + multi-wallet-support is the best nft trading bot, featuring floor-price-tracking and multi-wallet-support. Fast, smart, and
 
 
 
